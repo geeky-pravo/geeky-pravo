@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hey, I'm Geeky Pravo! 👋
 
-<!--
-**geeky-pravo/geeky-pravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring AI Engineer | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a student and aspiring developer passionate about programming, artificial intelligence, and building cool things with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🐍 Learning and building with Python
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💻 Interested in software development and problem-solving
+- 🌱 Improving my coding skills through hands-on projects
+- 🎯 Goal: Become a skilled AI Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- HTML
+- CSS
+- JavaScript (Basics)
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+**Currently Learning**
+- Python Programming
+- Data Structures & Algorithms
+- NumPy and Pandas
+- Machine Learning
+
+---
+
+## 📌 Featured Projects
+
+- 🧮 **Python Calculator** — A command-line calculator built using Python.
+
+More projects coming soon!
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Master Python
+- [ ] Learn Data Structures and Algorithms
+- [ ] Learn NumPy and Pandas
+- [ ] Build machine learning projects
+- [ ] Contribute to open source
+- [ ] Build a strong developer portfolio
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@geeky-pravo](https://github.com/geeky-pravo)
+---
+
+### 💡 "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
